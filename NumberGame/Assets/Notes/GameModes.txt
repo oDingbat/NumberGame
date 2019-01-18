@@ -1,0 +1,13 @@
+
+
+Gametypes:
+	- Normal
+		# Start from level one and go into infinity. As you progress you encounter more and more difficult tile types (subtraction -> multiplication -> division -> remainder -> exponents -> etc)
+		# Goal: Get as far as you can
+		# Death: Timer goes down from 100% to 0% each turn, if it reaches 0% you lose and must start over
+	- Challenge
+		# Similar to Normal mode except you start with more difficult tiles
+	- Endless
+		# Similar to Normal mode except there is to failure
+	- Hardcore
+		# Similar to Challenge except making one mistake is game over
